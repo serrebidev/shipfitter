@@ -2,6 +2,12 @@
 
 Build and packaging helpers for Rust desktop apps. [Fedra](https://github.com/trypsynth/fedra) and [Paperback](https://github.com/trypsynth/paperback) use it.
 
+[![Join SerrebiProjects on Telegram](https://img.shields.io/badge/Telegram-SerrebiProjects-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SerrebiProjects)
+
+**Questions, bugs, or release news?** Join the [SerrebiProjects Telegram group](https://t.me/SerrebiProjects), the fastest place to get help.
+
+More serrebi projects: [projects.serrebiradio.com](https://projects.serrebiradio.com)
+
 ## Modules
 
 - `build`: helpers for build scripts. Embeds the current commit as environment variables, fills in `@NAME@` templates such as an Inno Setup script, and finds the target directory.
@@ -71,3 +77,7 @@ Each signer reads its secrets from environment variables. If none of a signer's 
 ## License
 
 MIT
+
+## Credits
+
+See [CREDITS.md](CREDITS.md) for where the ideas behind this project came from, and the third-party projects it builds on.
