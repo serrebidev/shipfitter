@@ -1,6 +1,6 @@
 # Credits
 
-shipfitter is build and packaging helpers for Rust desktop apps. Fedra and Paperback (by trypsynth) use it. Most of its design follows what those apps already did by hand.
+shipfitter is build and packaging helpers for Rust desktop apps, from [trypsynth/shipfitter](https://github.com/trypsynth/shipfitter). Fedra and Paperback (by trypsynth) use it. Most of its design follows what those apps already did by hand.
 
 Third-party tools it drives:
 
